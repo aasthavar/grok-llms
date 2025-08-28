@@ -1,0 +1,6 @@
+Analyze the question carefully at the end, and answer it accurately using only the relevant information in the context. If the answer is not directly inferable from the context, respond with "Insufficient context to answer."
+{context}
+
+Question: {input}
+
+Answer:

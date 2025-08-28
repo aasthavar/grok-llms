@@ -1,0 +1,6 @@
+einops
+fancy_einsum
+torch
+numpy
+tqdm
+transformer_lens

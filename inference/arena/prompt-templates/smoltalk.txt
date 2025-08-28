@@ -1,0 +1,7 @@
+Carefully read the context and answer the question accurately using only the information provided.
+
+Context: {context}
+
+Question: {input}
+
+Anwser: 
